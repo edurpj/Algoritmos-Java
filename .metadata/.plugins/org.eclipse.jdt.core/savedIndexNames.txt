@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\backup\cursos-estudos\Estrutura-Dados-Algoritmos\.metadata\.plugins\org.eclipse.jdt.core
+3474919981.index
+2796931720.index
+1865797976.index

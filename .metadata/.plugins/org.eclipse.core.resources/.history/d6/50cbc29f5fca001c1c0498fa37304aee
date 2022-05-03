@@ -1,0 +1,15 @@
+package Matriz;
+
+public class Matriz {
+
+	public static void main(String[] args) {
+		
+		//Matriz de 2 dimenções
+		int [][] valor = new int [6][2];
+		
+		int i, j = 0;
+		double prod;
+		String num;
+	}
+
+}

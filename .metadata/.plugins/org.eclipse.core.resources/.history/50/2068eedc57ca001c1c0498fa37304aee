@@ -1,0 +1,13 @@
+package Vetor;
+
+public class vetor {
+
+	public static void main(String[] args) {
+		
+		int [] valores = new int[10];
+		System.out.println(valores.length);
+		
+
+	}
+		
+}

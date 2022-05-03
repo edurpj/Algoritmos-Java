@@ -1,0 +1,23 @@
+package Matriz;
+
+public class Matriz {
+
+	public static void main(String[] args) {
+		
+		//Matriz de 2 dimenções
+		int [][] valor = new int [6][2];
+		
+		double prod;
+		String num;
+		
+		try {
+			for(int i = 0; i <=6; i++) {
+				
+			}
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+	}
+
+}

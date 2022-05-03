@@ -1,0 +1,25 @@
+package Vetor;
+
+public class vetor {
+
+	public static void main(String[] args) {
+		
+		//Criação e instancição
+		
+		int [] valores = new int[10];
+		System.out.println(valores.length);
+		
+		int [] notas;
+		notas = new int [20];
+		System.out.println(notas.length);
+		
+		//Criando valores
+		
+		valores[0] = 2;
+		valores[1] = 9;
+		valores[2] = 7;
+		valores[3] = 5;
+		System.out.println(valores[1]);
+	}
+		
+}

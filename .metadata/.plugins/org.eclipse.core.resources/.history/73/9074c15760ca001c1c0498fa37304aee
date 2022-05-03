@@ -1,0 +1,30 @@
+package Matriz;
+
+import java.util.Scanner;
+
+public class Matriz {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		//Matriz de 2 dimenções
+		int [][] valor = new int [6][2];
+		
+		double prod;
+		String num;
+		
+		try {
+			for(int i = 0; i <=6; i++) {
+				for(int j = 0; j <= 2; j++) {
+					
+				}
+			}
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		sc.close();
+	}
+
+}

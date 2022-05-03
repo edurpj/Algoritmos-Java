@@ -1,0 +1,12 @@
+package Vetor;
+
+public class vetor {
+
+	public static void main(String[] args) {
+		
+		int [] valores = 2;
+		
+
+	}
+		
+}

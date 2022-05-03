@@ -1,0 +1,11 @@
+package Matriz;
+
+public class Matriz {
+
+	public static void main(String[] args) {
+		
+		int [] valor = new int [6] [2];
+
+	}
+
+}
